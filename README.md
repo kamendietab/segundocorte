@@ -329,7 +329,7 @@ $$J=\frac{W}{g}(\frac{L}{2\Pi})^2  \qquad J=Mr^2=\frac{W}{g}r^2$$
 
 $$r_1N_2=r_2N_1 \qquad \theta _1r_1=\theta_2r_2 \qquad T_1\theta_1=T_2\theta_2 $$
 
-$$\frac{T_1}{T_2}=\frac{N_1}{N_2}=\frac{\theta_2}{theta_1}$$
+$$\frac{T_1}{T_2}=\frac{N_1}{N_2}=\frac{\theta_2}{\theta_1}$$
 
 
 💡**Ejemplo Par transmisión por engranajes:**
